@@ -2,6 +2,7 @@
 name = "c070r"
 version = "0.1.0"
 edition = "2021"
+authors = ["msukanen <markku.sukanen@gmail.com>"]
 
 [dependencies]
 c070r-lib = { path = "../c070r-lib" }
